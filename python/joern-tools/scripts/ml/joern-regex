@@ -2,7 +2,7 @@
 
 import sys
 from argparse import FileType
-from joern.mlutils.regexGen.StringSetToRegex import StringSetToRegex
+from octopus.mlutils.regexGen.StringSetToRegex import StringSetToRegex
 from joern.shelltool.CmdLineTool import CmdLineTool
 
 

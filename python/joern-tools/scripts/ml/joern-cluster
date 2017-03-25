@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from joern.mlutils.EmbeddingLoader import EmbeddingLoader
+from octopus.mlutils.EmbeddingLoader import EmbeddingLoader
 from joern.shelltool.CmdLineTool import CmdLineTool
 from scipy.spatial.distance import squareform
 

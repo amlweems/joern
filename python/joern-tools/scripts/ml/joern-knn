@@ -2,8 +2,8 @@
 
 import sys
 from argparse import FileType
-from joern.KNN import KNN
-from joern.shelltool.PipeTool import PipeTool
+from octopus.mlutils.KNN import KNN
+from octopus.shelltool.PipeTool import PipeTool
 
 
 
