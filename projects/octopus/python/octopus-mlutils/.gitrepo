@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/octopus-platform/octopus-mlutils
+	branch = master
+	commit = 96cc0ae54886c9f4cec2bff6634cadd0c6854ab0
+	parent = 1c8901c682494c834725693db6e0de3be494fdc5
+	cmdver = 0.3.1
